@@ -16,3 +16,6 @@
 </div><br/>
 
 💻 Desenvolvedor Java com 2 anos de experiência, apaixonado por desenvolver novas soluções e mergulhar no mundo da tecnologia.
+
+##Graduações:
+- Ciências da Computação - FIT(Faculdade Impacta de Tecnologia) 👨‍💻
